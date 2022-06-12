@@ -2,13 +2,10 @@
 
 ## 资源下载
 
-### Minecraft 2D(暂停更新)
+### WD DOS
 
-> [Alpha 0.1.0](https://afdian.net/p/e36bab60b1a011ecbd7d52540025c377)
 
-> [Alpha 0.0.3](https://afdian.net/p/42a32534b0c711ec9d2552540025c377)
 
-> [Alpha 0.0.1](https://afdian.net/p/0e7deeb8b00111ec9efb52540025c377)
 
 ***
 
