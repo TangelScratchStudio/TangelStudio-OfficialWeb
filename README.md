@@ -4,6 +4,8 @@
 
 ### WS DOS SYSTEM
 
+> [2.2.0.5](https://afdian.net/p/ec00b288ea1311eca8db52540025c377)
+
 > [2.1.0.3](https://afdian.net/p/bcf77152ea1311eca15752540025c377)
 
 > [2.0.0.0](https://afdian.net/p/12e49542ea1211ec86ed52540025c377)
