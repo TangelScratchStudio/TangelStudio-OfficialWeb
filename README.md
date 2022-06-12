@@ -17,3 +17,5 @@
 <iframe id="afdian_leaflet_TangelStudio" src="https://afdian.net/leaflet?slug=TangelStudio" width="100%" scrolling="no" height="200" frameborder="0"></iframe><script>document.body.clientWidth< 700 ? document.getElementById("afdian_leaflet_TangelStudio").width = "100%" : document.getElementById("afdian_leaflet_TangelStudio").width = "640"</script>
 
 ***
+  
+Copyright©2022 Tangel Scratch-Studio. All Rights Reserved.
