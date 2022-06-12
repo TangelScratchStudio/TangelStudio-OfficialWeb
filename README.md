@@ -1,4 +1,4 @@
-# 欢迎来到Tangel Scratch-Studio官方网站
+# Tangel Scratch-Studio官方网站
 
 ## 资源下载
 
