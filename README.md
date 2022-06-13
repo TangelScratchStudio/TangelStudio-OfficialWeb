@@ -1,8 +1,14 @@
-# Tangel Scratch-Studio官方网站
+# Tangel Scratch-Studio官网
 
 ## 资源下载
 
 ### WS DOS SYSTEM
+预发布版本
+
+
+***
+
+正式版
 
 > [2.2.0.5](https://afdian.net/p/ec00b288ea1311eca8db52540025c377)
 
