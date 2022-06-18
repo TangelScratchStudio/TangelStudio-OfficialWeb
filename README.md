@@ -5,6 +5,7 @@
 ### WS DOS SYSTEM
 预发布版本
 
+> [3.0.0.0 PRE-1](https://afdian.net/p/f30f04f0eb1a11ec9a3852540025c377)
 
 ***
 
