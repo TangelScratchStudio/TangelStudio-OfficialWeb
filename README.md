@@ -1,5 +1,13 @@
 # Tangel Scratch-Studio官网
 
+<a href="https://time.is/Beijing" id="time_is_link" rel="nofollow" style="font-size:36px">北京时间:</a>
+<span id="Beijing_z43d" style="font-size:36px"></span>
+<script src="//widget.time.is/zh.js"></script>
+<script>
+time_is_widget.init({Beijing_z43d:{template:"TIME<br>DATE", time_format:"12hours:minutes:secondsAMPM", date_format:"yy-monthnum-daynumdayname"}});
+</script>
+
+
 ## 资源下载
 
 ### WS DOS SYSTEM
