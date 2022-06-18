@@ -33,7 +33,7 @@ time_is_widget.init({Beijing_z43d:{template:"TIME<br>DATE", time_format:"12hours
 
 > [2.0.0.0](https://afdian.net/p/12e49542ea1211ec86ed52540025c377)
 
-要获得2.0以前版本?请私信QQ：362752576
+要获得2.0以前版本?请私信[QQ](https://im.qq.com/)：362752576
 
 ## 资讯
 
