@@ -21,7 +21,7 @@
 
 ***
 
-Tangel Scratch-Studio 中的所有内容，除非特别说明，均以 [署名-相同方式共享4.0国际(CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.zh) 授权使用。在引用 Tangel Scratch-Studio 中的内容时，请注意遵守许可协议。
+Tangel Scratch-Studio 中的所有内容，除非特别说明，均以 [署名-相同方式共享4.0国际(CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.zh) （更详细的条款，请[点击查看](https://github.com/TangelScratchStudio/TangelScratchStudio.github.io/blob/main/LICENSE)）授权使用。在引用 Tangel Scratch-Studio 中的内容时，请注意遵守许可协议。
 
 ***
 
