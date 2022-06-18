@@ -18,6 +18,7 @@
 > [2.0.0.0](https://afdian.net/p/12e49542ea1211ec86ed52540025c377)
 
 要获得2.0以前版本?请私信QQ：3627525769
+
 ***
 
 Tangel Scratch-Studio 中的所有内容，除非特别说明，均以 [署名-相同方式共享4.0国际(CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.zh) 授权使用。在引用 Tangel Scratch-Studio 中的内容时，请注意遵守许可协议。
