@@ -34,6 +34,8 @@ Tangel Scratch-Studio 中的所有内容，除非特别说明，均以<i class="
 
 正式版
 
+> [BUILD 0620](https://afdian.net/p/aa12f494f09911ec9bf452540025c377)
+
 > [2.2.0.5](https://afdian.net/p/ec00b288ea1311eca8db52540025c377)
 
 > [2.1.0.3](https://afdian.net/p/bcf77152ea1311eca15752540025c377)
