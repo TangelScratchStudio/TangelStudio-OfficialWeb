@@ -20,7 +20,7 @@ Tangel Scratch-Studio 中的所有内容，除非特别说明，均以<i class="
 ### WS DOS SYSTEM
 预发布版本
 
-> [BUILD 0620(暂定)](https://afdian.net/p/aa12f494f09911ec9bf452540025c377)
+> [BUILD Whisters](https://afdian.net/p/aa12f494f09911ec9bf452540025c377)
 
 > [REC-1](https://afdian.net/p/76145026ed5511ecbaf352540025c377)
 
