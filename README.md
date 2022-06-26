@@ -4,7 +4,7 @@
 <span id="Beijing_z43d" style="font-size:24px"></span>
 <script src="//widget.time.is/zh.js"></script>
 <script>
-time_is_widget.init({Beijing_z43d:{template:"TIME<br>DATE", time_format:"12hours:minutes:secondsAMPM", date_format:"year年monthnamednum日dayname，第week周"}});
+time_is_widget.init({Beijing_z43d:{template:"TIME<br>DATE", time_format:"12hours:minutes:secondsAMPM", date_format:"year年monthnamednum日dayname"}});
 </script>
 
 ***
