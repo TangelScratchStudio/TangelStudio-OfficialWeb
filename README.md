@@ -18,7 +18,7 @@ Tangel Scratch-Studio 中的所有内容，除非特别说明，均以<i class="
 ## 资源下载
 
 ### WS DOS SYSTEM
-预发布版本
+预发布版本.Prerelease
 
 > []
 
