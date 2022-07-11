@@ -1,3 +1,7 @@
+---
+permalink: /prerelease.html
+---
+
 # Tangel Scratch-Studio.预发布版本Prerelease
 
 <a href="https://time.is/Beijing" id="time_is_link" rel="nofollow" style="font-size:24px">北京时间:</a>
