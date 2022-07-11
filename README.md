@@ -20,6 +20,8 @@ Tangel Scratch-Studio 中的所有内容，除非特别说明，均以<i class="
 ### WS DOS SYSTEM
 预发布版本.Prerelease
 
+> [BATA 1](https://afdian.net/p/7ed9a850f46211ec9d5952540025c377)
+
 > [4.0.0.0 PRE-2](https://afdian.net/p/ffcab9fef2a511ecbfe452540025c377)
 
 > [4.0.0.0 PRE-1](https://afdian.net/p/afcac426f2a511ecafd652540025c377)
