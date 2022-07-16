@@ -15,6 +15,10 @@ Tangel Scratch-Studio 中的所有内容，除非特别说明，均以<i class="
 
 ***
 
+## 宣传片
+
+<iframe src="//player.bilibili.com/player.html?aid=555755505&bvid=BV1Me4y1R7Wb&cid=770095178&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
 ## 资源下载
 
 ### WS DOS SYSTEM
