@@ -19,9 +19,9 @@ Tangel Scratch-Studio 中的所有内容，除非特别说明，均以<i class="
 
 <iframe src="//player.bilibili.com/player.html?aid=555755505&bvid=BV1Me4y1R7Wb&cid=770095178&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
-## 资源下载
+## WE DOS SYSTEM.资源下载
 
-### WS DOS SYSTEM
+### 
 预发布版本.Prerelease
 
 > [BATA 1](https://afdian.net/p/7ed9a850f46211ec9d5952540025c377)
