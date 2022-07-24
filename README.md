@@ -21,7 +21,8 @@ Tangel Scratch-Studio 中的所有内容，除非特别说明，均以<i class="
 
 ## WE DOS SYSTEM.资源下载
 
-### 
+### WINDOWS版
+
 预发布版本.Prerelease
 
 > [BATA 1](https://afdian.net/p/7ed9a850f46211ec9d5952540025c377)
@@ -55,6 +56,10 @@ Tangel Scratch-Studio 中的所有内容，除非特别说明，均以<i class="
 > [2.0.0.0](https://afdian.net/p/12e49542ea1211ec86ed52540025c377)
 
 要获得2.0以前版本?请私信[QQ](https://im.qq.com/)：362752576
+
+### 安卓版
+
+
 
 ## 资讯
 
