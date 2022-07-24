@@ -64,6 +64,8 @@ Tangel Scratch-Studio 中的所有内容，除非特别说明，均以<i class="
 
 [提出建议](https://support.qq.com/product/400818)
 
+[隐私声明](https://docs.qq.com/doc/DQlpwT3pEakZxQUt0)
+
 ***
 
 <img width="160" alt="arch水印-紫色字" src="https://user-images.githubusercontent.com/91039316/166202842-59b79d17-086f-408d-8634-b779db164080.png">
