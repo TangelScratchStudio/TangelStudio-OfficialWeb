@@ -9,7 +9,9 @@ permalink: /email.html
 
 邮箱地址：
 
-网站部[fred_wangquansen@qq.com或者3285952671@qq.com](mailto:3285952671@qq.com)
+- 【推荐】网站部[fred_wangquansen@qq.com或者3285952671@qq.com](mailto:3285952671@qq.com)
+
+- 开发部[3627525769@qq.com或者jssvcson@outlook.com](mailto:jssvcson@outlook.com)
 
 发送到这个邮箱的邮件都会且只会被运营组看到。我们会尽快回复我们认为需要回复的邮件。所有的回复都将是邮箱为 `fred_wangquansen@qq.com`或者 `3285952671@qq.com` 发出。
 
