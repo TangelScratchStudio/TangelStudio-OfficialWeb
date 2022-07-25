@@ -23,8 +23,6 @@ Tangel Scratch-Studio 中的所有内容，除非特别说明，均以<i class="
 
 ### WINDOWS版
 
-预发布版本.Prerelease
-
 > [BATA 1](https://afdian.net/p/7ed9a850f46211ec9d5952540025c377)
 
 > [4.0.0.0 PRE-2](https://afdian.net/p/ffcab9fef2a511ecbfe452540025c377)
@@ -43,10 +41,6 @@ Tangel Scratch-Studio 中的所有内容，除非特别说明，均以<i class="
 
 > [3.0.0.0 PRE-1](https://afdian.net/p/f30f04f0eb1a11ec9a3852540025c377)
 
-***
-
-正式版
-
 > [4.0.0.0](https://afdian.net/p/1b43b102f5dc11ec8faa52540025c377)
 
 > [2.2.0.5](https://afdian.net/p/ec00b288ea1311eca8db52540025c377)
@@ -59,7 +53,7 @@ Tangel Scratch-Studio 中的所有内容，除非特别说明，均以<i class="
 
 ### 安卓版
 
-
+﹥ [Alpha 0.0.1](https://afdian.net/p/850ac6f601f911ed9e0752540025c377)
 
 ## 资讯
 
