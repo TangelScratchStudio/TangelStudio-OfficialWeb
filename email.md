@@ -37,18 +37,20 @@ permalink: /email.html
 如果你需要高时效性的技术支持，请[捐助支持](https://afdian.net/@FredW) 来获取高质量的技术支持服务。
 
 ***
-[提出建议](https://support.qq.com/product/387213)
 
-Tip 如果您想提出建议又不想被别人看到，请查看☞[邮件工单](/email.html)
+[提出建议](https://support.qq.com/product/400818)
 
-[学校主页](http://www.njbx.com/)
-
-[隐私声明](/PrivacyStatement.html)
+[隐私声明](https://docs.qq.com/doc/DQlpwT3pEakZxQUt0)
 
 ***
+
 <img width="160" alt="arch水印-紫色字" src="https://user-images.githubusercontent.com/91039316/166202842-59b79d17-086f-408d-8634-b779db164080.png">
 
-<iframe id="afdian_leaflet_FredW" src="https://afdian.net/leaflet?slug=FredW" width="100%" scrolling="no" height="200" frameborder="0"></iframe><script>document.body.clientWidth< 700 ? document.getElementById("afdian_leaflet_FredW").width = "100%" : document.getElementById("afdian_leaflet_FredW").width = "640"</script>
-  
+<iframe id="afdian_leaflet_TangelStudio" src="https://afdian.net/leaflet?slug=TangelStudio" width="100%" scrolling="no" height="200" frameborder="0"></iframe><script>document.body.clientWidth< 700 ? document.getElementById("afdian_leaflet_TangelStudio").width = "100%" : document.getElementById("afdian_leaflet_TangelStudio").width = "640"</script>
+
 ***
-Copyright©2022 王泉森.©2022 郑煦翔. All Rights Reserved.
+  
+![TangelAB](https://user-images.githubusercontent.com/91039316/173221445-198afbbd-39a2-49cd-83f2-4bd5af9ff75f.png)
+
+Copyright©2022 Tangel Scratch-Studio. All Rights Reserved.
+
