@@ -55,9 +55,13 @@ Tangel Scratch-Studio 中的所有内容，除非特别说明，均以<i class="
 
 ﹥ [Alpha 0.0.1](https://afdian.net/p/850ac6f601f911ed9e0752540025c377)
 
+### Linux版
+
+﹥ [0714](https://afdian.net/p/7c39d888035b11eda1ca52540025c377)
+
 ### MAC OS版
 
-> [0724](https://afdian.net/p/4ece4780035b11ed932a52540025c377)
+> [0714](https://afdian.net/p/4ece4780035b11ed932a52540025c377)
 
 ## 资讯
 
