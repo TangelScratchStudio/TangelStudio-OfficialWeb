@@ -7,12 +7,14 @@ permalink: /email.html
 
 ## 对外支持邮箱
 
-邮箱地址：[fred_wangquansen@qq.com或者3285952671@qq.com](mailto:3285952671@qq.com)
+邮箱地址：
+
+网站部[fred_wangquansen@qq.com或者3285952671@qq.com](mailto:3285952671@qq.com)
 
 发送到这个邮箱的邮件都会且只会被运营组看到。我们会尽快回复我们认为需要回复的邮件。所有的回复都将是邮箱为 `fred_wangquansen@qq.com`或者 `3285952671@qq.com` 发出。
 
 ### Warning
-收到来自 PlantSystem 运营组或社区技术支持人员的邮件时，请认真核对发件邮箱。如果邮箱域名不是 `fred_wangquansen@qq.com`或者 `3285952671@qq.com` ，则说明这封邮件并非由 PlantSystem 运营组成员或社区技术支持人员发送，其内容并不可靠，请谨慎对待。
+收到来自 Tangel Scratch 工作室 运营组或社区技术支持人员的邮件时，请认真核对发件邮箱。如果邮箱域名不是 `fred_wangquansen@qq.com`或者 `3285952671@qq.com` ，则说明这封邮件并非由 Tangel Scratch 工作室 运营组成员或社区技术支持人员发送，其内容并不可靠，请谨慎对待。
 
 ## 规则
 
