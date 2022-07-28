@@ -21,6 +21,8 @@ Tangel Scratch-Studio 中的所有内容，除非特别说明，均以<i class="
 
 ## WE DOS SYSTEM.资源下载
 
+[WS DOS SYSTEM系列 所有统一版本声明](https://docs.qq.com/doc/DQm1WRkx3Ymt3dUVT)
+
 ### WINDOWS版
 
 > [5.0.0.0](https://afdian.net/p/4f3f4e5e033c11ed86dd52540025c377)
