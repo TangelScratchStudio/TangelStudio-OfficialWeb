@@ -24,6 +24,7 @@ Tangel Scratch-Studio 中的所有内容，除非特别说明，均以<i class="
 [WS DOS SYSTEM系列 所有统一版本声明](https://docs.qq.com/doc/DQm1WRkx3Ymt3dUVT)
 
 ### WINDOWS版
+> [0715](https://afdian.net/album/142aa2a6ea0e11ecbff352540025c377/2343ac4a044611ed9ee652540025c377)
 
 > [5.0.0.0](https://afdian.net/p/4f3f4e5e033c11ed86dd52540025c377)
 
