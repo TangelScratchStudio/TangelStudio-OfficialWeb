@@ -1,3 +1,9 @@
+---
+
+permalink: /windows.html
+
+---
+
 # WINDOWS版
 
 > [0715](https://afdian.net/album/142aa2a6ea0e11ecbff352540025c377/2343ac4a044611ed9ee652540025c377)
