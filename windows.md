@@ -46,7 +46,7 @@ permalink: /windows.html
 
 要获得2.0以前版本?请私信[QQ](https://im.qq.com/)：362752576
 
-### [回到主页](http://tangelscratchstudio.online/)
+# [回到主页](http://tangelscratchstudio.online/)
 
 ***
 
