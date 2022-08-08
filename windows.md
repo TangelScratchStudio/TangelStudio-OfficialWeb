@@ -6,7 +6,7 @@ permalink: /windows.html
 
 # WINDOWS版
 
-> [5.0.0.0正式]([ ]>https://afdian.net/p/4ba36de0155011ed8fe052540025c377))
+> [5.0.0.0正式](https://afdian.net/p/4ba36de0155011ed8fe052540025c377)
 
 > [5.0.0.0 BATA-2](https://afdian.net/p/14aaace2125b11ed881b52540025c377)
 
