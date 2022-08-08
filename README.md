@@ -41,6 +41,8 @@ Tangel Scratch-Studio 中的所有内容，除非特别说明，均以<i class="
 
 ## 资讯
 
+> [关于安卓版本的发布声明](https://afdian.net/p/5938324814c311eda49c52540025c377)
+
 > [关于网站问题的通告](https://afdian.net/p/67f6a748ebc311ecbf8c52540025c377)
 
 ***
