@@ -4,7 +4,7 @@ permalink: /windows.html
 
 ---
 
-# WINDOWS版
+# Windows版本
 
 > [5.0.0.0正式](https://afdian.net/p/4ba36de0155011ed8fe052540025c377)
 
