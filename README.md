@@ -29,6 +29,8 @@ Tangel Scratch-Studio 中的所有内容，除非特别说明，均以<i class="
 
 ### 安卓版
 
+> [Alpha 0.0.2](https://afdian.net/p/cae1e31408b411ed93eb52540025c377)
+
 ﹥ [Alpha 0.0.1](https://afdian.net/p/850ac6f601f911ed9e0752540025c377)
 
 ### Linux版
