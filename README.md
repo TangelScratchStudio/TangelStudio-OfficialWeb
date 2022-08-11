@@ -39,7 +39,7 @@ Tangel Scratch-Studio 中的所有内容，除非特别说明，均以<i class="
 
 ### Linux版
 
-﹥ [0714](https://afdian.net/p/7c39d888035b11eda1ca52540025c377)
+> [0714](https://afdian.net/p/7c39d888035b11eda1ca52540025c377)
 
 ### MAC OS版
 
