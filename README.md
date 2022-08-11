@@ -39,9 +39,9 @@ Tangel Scratch-Studio 中的所有内容，除非特别说明，均以<i class="
 
 ### Linux版
 
-> [BATA-2](https://afdian.net/p/268f5962125b11ed838452540025c377)
+> [5.0.0.0 BATA-2](https://afdian.net/p/268f5962125b11ed838452540025c377)
 
-> [BATA-1](https://afdian.net/p/1745e58c0d8011ed8c5052540025c377)
+> [5.0.0.0 BATA-1](https://afdian.net/p/1745e58c0d8011ed8c5052540025c377)
 
 > [0718](https://afdian.net/p/596867b0069011edbe5f52540025c377)
 
