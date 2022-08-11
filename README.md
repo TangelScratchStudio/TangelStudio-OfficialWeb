@@ -7,6 +7,10 @@
 time_is_widget.init({Beijing_z43d:{template:"TIME<br>DATE", time_format:"12hours:minutes:secondsAMPM", date_format:"year年monthnamednum日dayname"}});
 </script>
 
+在本网站中，请不要打开翻译功能。如果下面一句话被翻译，那么您打开翻译功能。
+
+You turned on the translation function!
+
 ***
 
 <script src="https://kit.fontawesome.com/b7c9053a74.js" crossorigin="anonymous"></script>
