@@ -1,4 +1,4 @@
-# Tangel Scratch-Studio官网
+# Tangel Studio官网
 
 <a href="https://time.is/Beijing" id="time_is_link" rel="nofollow" style="font-size:24px">北京时间:</a>
 <span id="Beijing_z43d" style="font-size:24px"></span>
@@ -83,4 +83,4 @@ Tangel Scratch-Studio 中的所有内容，除非特别说明，均以<i class="
   
 ![TangelAB](https://user-images.githubusercontent.com/91039316/173221445-198afbbd-39a2-49cd-83f2-4bd5af9ff75f.png)
 
-Copyright©2022 Tangel Scratch-Studio. All Rights Reserved.
+Copyright©2022 Tangel Studio. All Rights Reserved.
