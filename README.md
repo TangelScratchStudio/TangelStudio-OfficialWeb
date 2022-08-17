@@ -23,6 +23,8 @@ Tangel Scratch-Studio 中的所有内容，除非特别说明，均以<i class="
 
 <iframe src="//player.bilibili.com/player.html?aid=555755505&bvid=BV1Me4y1R7Wb&cid=770095178&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
+[Tangel Studio 宣传片](https://www.bilibili.com/video/BV1Me4y1R7Wb)
+
 ## WS DOS SYSTEM.资源下载
 
 [WS DOS SYSTEM系列 所有统一版本声明](https://docs.qq.com/doc/DQm1WRkx3Ymt3dUVT)
