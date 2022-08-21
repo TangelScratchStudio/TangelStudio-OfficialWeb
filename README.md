@@ -13,12 +13,7 @@ You turned on the translation function!
 
 ***
 
-<script src="https://kit.fontawesome.com/b7c9053a74.js" crossorigin="anonymous"></script>
-
-Tangel Scratch-Studio 中的所有内容，除非特别说明，均以<i class="fa-brands fa-creative-commons"></i> [署名-相同方式共享4.0国际(CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.zh) (更详细的条款，请[点击查看](https://github.com/TangelScratchStudio/TangelStudio-OfficialWeb/blob/main/LICENSE))授权使用。在引用 Tangel Scratch-Studio 中的内容时，请注意遵守许可协议。
-
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>进行许可。
-
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Tangel OS</span> 由 <a xmlns:cc="http://creativecommons.org/ns#" href="https://tangelscratchstudio.online/" property="cc:attributionName" rel="cc:attributionURL">Tangel Studio</a> 采用 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">知识共享 署名-非商业性使用 4.0 国际 许可协议</a>进行许可。<br />基于<a xmlns:dct="http://purl.org/dc/terms/" href="https://tangelscratchstudio.online/" rel="dct:source">https://tangelscratchstudio.online/</a>上的作品创作。
 
 ***
 
