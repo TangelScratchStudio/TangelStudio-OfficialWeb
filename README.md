@@ -63,6 +63,8 @@ You turned on the translation function!
 
 ## 资讯
 
+> [Tangel OS 2.0~3.0 版本停止支持](https://afdian.net/p/11206384430a11ed905752540025c377)
+
 > [关于安卓版本的发布声明](https://afdian.net/p/5938324814c311eda49c52540025c377)
 
 > [关于网站问题的通告](https://afdian.net/p/67f6a748ebc311ecbf8c52540025c377)
