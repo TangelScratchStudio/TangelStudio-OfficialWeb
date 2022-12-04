@@ -63,6 +63,8 @@ You turned on the translation function!
 
 ## 资讯
 
+> [新 RPG 游戏预告](https://afdian.net/p/079a5c34454411edab7352540025c377)
+
 > [Tangel OS 停止新内容发布](https://afdian.net/p/4476ca9a454211ed9f9752540025c377)
 
 > [Tangel OS 2.0~3.0 版本停止支持](https://afdian.net/p/11206384430a11ed905752540025c377)
