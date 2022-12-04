@@ -1,0 +1,24 @@
+# Number of days of inactivity before an issue becomes stale
+# 在问题变得陈旧之前不活动的天数
+daysUntilStale: 60
+# Number of days of inactivity before a stale issue is closed
+# 关闭陈旧问题之前不活动的天数
+daysUntilClose: 7
+# Issues with these labels will never be considered stale
+# 这些标签的问题永远不会被认为是陈旧的
+exemptLabels:
+  - pinned
+  - security
+# Label to use when marking an issue as stale
+# 将问题标记为过期时要使用的标签
+staleLabel: wontfix
+# Comment to post when marking an issue as stale. Set to `false` to disable
+# 将问题标记为过时时，请注释发布。设置为“ false”禁用
+markComment: >
+  This issue has been automatically marked as stale because it has not had recent activity. It will be closed if no further activity occurs. Thank you for your contributions. By probot Stale
+  这个问题已经自动标记为陈旧，因为它没有最近的活动。如果没有进一步的活动发生，它将被关闭。谢谢你的贡献。
+  By probot Stale
+  机器人Stale
+# Comment to post when closing a stale issue. Set to `false` to disable
+# 关闭陈旧问题时发表评论。设置为“ false”禁用
+closeComment: false
