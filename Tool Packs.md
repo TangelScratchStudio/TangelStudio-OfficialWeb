@@ -3,6 +3,10 @@ permalink: /tool_packs.html
 ---
 # Tangel's Tool Packs.资源下载
 
+> [Release 1.0.0](https://afdian.net/p/b87eb620875811ed9b1052540025c377)
+
+> [PreRelease(Beta 1.2.0) 1.0](https://afdian.net/p/fac40ab2840b11ed91d852540025c377)
+
 > [Beta 1.2.0](https://afdian.net/p/4b76a1fe835311ed8b3c52540025c377)
 
 > [Beta 1.1.2](https://afdian.net/p/3d156e3e81bd11ed846252540025c377)
