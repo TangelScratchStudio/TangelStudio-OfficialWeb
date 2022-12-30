@@ -3,7 +3,9 @@ permalink: /tool_packs.html
 ---
 # Tangel's Tool Packs.资源下载
 
+> [Alpha 2.0](https://afdian.net/p/641e50127de011ed87dc52540025c377)
 
+> [Alpha 1.0](https://afdian.net/p/9cb6b0c07db011edb53952540025c377)
 
 ## 回到主页
 
