@@ -27,6 +27,10 @@ You turned on the translation function!
 
 [点击跳转](/os.html)
 
+## Tangel's Tool Packs.资源下载
+
+[点击跳转](/tool_packs.html)
+
 ## 资讯
 
 > [新 RPG 游戏预告](https://afdian.net/p/079a5c34454411edab7352540025c377)
