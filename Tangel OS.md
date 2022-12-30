@@ -7,6 +7,11 @@ permalink: /os.html
 
 ## Windows版本
 
+
+> [6w2a](https://afdian.net/p/c0cf7cde68a811edb07252540025c377)
+
+> [6w1a](https://afdian.net/p/84f4cbe05da111ed90ee52540025c377)
+
 > [5.0.0.0正式](https://afdian.net/p/4ba36de0155011ed8fe052540025c377)
 
 > [5.0.0.0 BATA-2](https://afdian.net/p/14aaace2125b11ed881b52540025c377)
@@ -48,6 +53,8 @@ permalink: /os.html
 要获得2.0以前版本?请私信[QQ](https://im.qq.com/)：362752576
 
 ## 安卓版
+
+> [6w2a](https://afdian.net/p/c0cf7cde68a811edb07252540025c377)
 
 > [Alpha 0.0.2](https://afdian.net/p/cae1e31408b411ed93eb52540025c377)
 
