@@ -7,6 +7,12 @@ permalink: /os.html
 
 ## Windows版本
 
+> [6.0.0.0 SP-2](https://afdian.net/p/85f57ad86d7f11ed80c852540025c377)
+
+> [6.0.0.0 SP-1](https://afdian.net/p/19e2df686cd311edbedb52540025c377)
+
+> [6.0.0.0 BETA-1](https://afdian.net/p/616b34866b2311edbeb852540025c377)
+
 > [6w3b](https://afdian.net/p/b4bddb3a698d11eda96b52540025c377)
 
 > [6w3a](https://afdian.net/p/b97febfc68d611edbb3552540025c377)
@@ -17,9 +23,9 @@ permalink: /os.html
 
 > [5.0.0.0正式](https://afdian.net/p/4ba36de0155011ed8fe052540025c377)
 
-> [5.0.0.0 BATA-2](https://afdian.net/p/14aaace2125b11ed881b52540025c377)
+> [5.0.0.0 BETA-2](https://afdian.net/p/14aaace2125b11ed881b52540025c377)
 
-> [5.0.0.0 BATA-1](https://afdian.net/p/a34ea7720d7f11ed861e52540025c377)
+> [5.0.0.0 BETA-1](https://afdian.net/p/a34ea7720d7f11ed861e52540025c377)
 
 > [0718](https://afdian.net/p/1bdc828c069011eda7bc52540025c377)
 
@@ -27,7 +33,7 @@ permalink: /os.html
 
 > [5.0.0.0](https://afdian.net/p/4f3f4e5e033c11ed86dd52540025c377)
 
-> [BATA 1](https://afdian.net/p/7ed9a850f46211ec9d5952540025c377)
+> [BETA 1](https://afdian.net/p/7ed9a850f46211ec9d5952540025c377)
 
 > [4.0.0.0 PRE-2](https://afdian.net/p/ffcab9fef2a511ecbfe452540025c377)
 
@@ -67,9 +73,9 @@ permalink: /os.html
 
 > [5.0.0.0](https://afdian.net/p/a280daa8155011ed863e52540025c377)
 
-> [5.0.0.0 BATA-2](https://afdian.net/p/268f5962125b11ed838452540025c377)
+> [5.0.0.0 BETA-2](https://afdian.net/p/268f5962125b11ed838452540025c377)
 
-> [5.0.0.0 BATA-1](https://afdian.net/p/1745e58c0d8011ed8c5052540025c377)
+> [5.0.0.0 BETA-1](https://afdian.net/p/1745e58c0d8011ed8c5052540025c377)
 
 > [0718](https://afdian.net/p/596867b0069011edbe5f52540025c377)
 
@@ -79,7 +85,7 @@ permalink: /os.html
 
 ## MAC OS版
 
-> [5.0.0.0 BATA-1](https://afdian.net/p/f9ecf30e0d7f11edb7fc52540025c377)
+> [5.0.0.0 BETA-1](https://afdian.net/p/f9ecf30e0d7f11edb7fc52540025c377)
 
 > [0718](https://afdian.net/p/3b7fc8b0069011edb25852540025c377)
 
