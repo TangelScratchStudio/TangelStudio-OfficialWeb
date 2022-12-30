@@ -7,6 +7,9 @@ permalink: /os.html
 
 ## Windows版本
 
+> [6w3b](https://afdian.net/p/b4bddb3a698d11eda96b52540025c377)
+
+> [6w3a](https://afdian.net/p/b97febfc68d611edbb3552540025c377)
 
 > [6w2a](https://afdian.net/p/c0cf7cde68a811edb07252540025c377)
 
