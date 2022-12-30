@@ -3,6 +3,12 @@ permalink: /ww2_sc.html
 ---
 # World War II:策略与征服(原 CCCP:涅槃重生).资源下载
 
+> [1.1.0](https://afdian.net/p/9a48c0144c5d11edbf4e52540025c377)
+
+> [1.0.0](https://afdian.net/p/560143a64ba711ed98cd52540025c377)
+
+> [0.0.2](https://afdian.net/p/5cd31fa2495811ed936a52540025c377)
+
 > 0.0.1[Windows版](https://afdian.net/p/3db81a3e489311ed94c352540025c377) [HTML(手机版)](https://afdian.net/p/48683020489511ed813252540025c377)
 
 ## 回到主页
