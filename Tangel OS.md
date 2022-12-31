@@ -65,6 +65,8 @@ permalink: /os.html
 
 > [6w2a](https://afdian.net/p/c0cf7cde68a811edb07252540025c377)
 
+> [Alpha 0.0.4](https://afdian.net/p/97e1529611a211edb14552540025c377)
+
 > [Alpha 0.0.2](https://afdian.net/p/cae1e31408b411ed93eb52540025c377)
 
 > [Alpha 0.0.1](https://afdian.net/p/850ac6f601f911ed9e0752540025c377)
