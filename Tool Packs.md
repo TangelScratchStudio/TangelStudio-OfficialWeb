@@ -38,7 +38,7 @@ permalink: /tool_packs.html
 <iframe id="afdian_leaflet_TangelStudio" src="https://afdian.net/leaflet?slug=TangelStudio" width="100%" scrolling="no" height="200" frameborder="0"></iframe><script>document.body.clientWidth< 700 ? document.getElementById("afdian_leaflet_TangelStudio").width = "100%" : document.getElementById("afdian_leaflet_TangelStudio").width = "640"</script>
 
 ***
+  
+![TangelAB]([https://user-images.githubusercontent.com/91039316/173221445-198afbbd-39a2-49cd-83f2-4bd5af9ff75f.png](https://raw.githubusercontent.com/TangelScratchStudio/TangelStudio-OfficialWeb/main/TangelAB.png))
 
-![TangelAB](https://user-images.githubusercontent.com/91039316/173221445-198afbbd-39a2-49cd-83f2-4bd5af9ff75f.png)
-
-Copyright©2022 Tangel Scratch-Studio. All Rights Reserved
+Copyright©2023-now Tangel Scratch-Studio. All Rights Reserved.
