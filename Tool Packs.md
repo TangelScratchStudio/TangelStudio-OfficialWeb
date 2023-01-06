@@ -39,6 +39,6 @@ permalink: /tool_packs.html
 
 ***
   
-![TangelAB]([https://user-images.githubusercontent.com/91039316/173221445-198afbbd-39a2-49cd-83f2-4bd5af9ff75f.png](https://raw.githubusercontent.com/TangelScratchStudio/TangelStudio-OfficialWeb/main/TangelAB.png))
+<img width="750" alt="TangelAB" src="https://user-images.githubusercontent.com/91039316/210968013-2737ff03-8b0d-45e5-9dd0-c4c07e62a10b.png">
 
 Copyright©2023-now Tangel Scratch-Studio. All Rights Reserved.
