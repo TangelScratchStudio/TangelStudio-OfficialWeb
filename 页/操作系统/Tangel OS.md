@@ -5,7 +5,13 @@ permalink: /os.html
 
 [Tangel OS系列 所有统一版本声明 及 版权协议](https://docs.qq.com/doc/DQm1WRkx3Ymt3dUVT)
 
-## Windows版本
+## 重置版
+
+> [Alpha 0.0.1](https://pan.xingkongserver.top/Tangel%20OS/Alpha%200.0.1)
+
+## 老版
+
+### Windows版本
 
 > [6.0.0.0 SP-2](https://afdian.net/p/85f57ad86d7f11ed80c852540025c377)
 
@@ -61,7 +67,7 @@ permalink: /os.html
 
 要获得2.0以前版本?请私信[QQ](https://im.qq.com/)：362752576
 
-## 安卓版
+### 安卓版
 
 > [6w2a](https://afdian.net/p/c0cf7cde68a811edb07252540025c377)
 
@@ -71,7 +77,7 @@ permalink: /os.html
 
 > [Alpha 0.0.1](https://afdian.net/p/850ac6f601f911ed9e0752540025c377)
 
-## Linux版
+### Linux版
 
 > [5.0.0.0](https://afdian.net/p/a280daa8155011ed863e52540025c377)
 
@@ -85,7 +91,7 @@ permalink: /os.html
 
 > [0714](https://afdian.net/p/7c39d888035b11eda1ca52540025c377)
 
-## MAC OS版
+### MAC OS版
 
 > [5.0.0.0 BETA-1](https://afdian.net/p/f9ecf30e0d7f11edb7fc52540025c377)
 
