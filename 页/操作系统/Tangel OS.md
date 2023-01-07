@@ -65,7 +65,7 @@ permalink: /os.html
 
 > [2.0.0.0](https://afdian.net/p/12e49542ea1211ec86ed52540025c377)
 
-要获得2.0以前版本?请私信[QQ](https://im.qq.com/)：362752576
+要获得2.0以前版本?请私信[QQ](https://im.qq.com/)：[362752576](tencent://message/?uin=362752576)
 
 ### 安卓版
 
