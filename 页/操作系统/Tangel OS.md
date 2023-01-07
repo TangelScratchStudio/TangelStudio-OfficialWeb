@@ -3,11 +3,15 @@ permalink: /os.html
 ---
 # Tangel OS(原WS DOS SYSTEM).资源下载
 
+<img width="250" alt="Tangel OS" src="https://user-images.githubusercontent.com/91039316/211153019-833baac1-83bc-4f48-a5b0-a9e6deb67211.png">
+
 [Tangel OS系列 所有统一版本声明 及 版权协议](https://docs.qq.com/doc/DQm1WRkx3Ymt3dUVT)
 
 ## 重置版
 
-> [Alpha 0.0.1](https://pan.xingkongserver.top/Tangel%20OS/Alpha%200.0.1)
+> [Alpha 1.1.0](https://pan.xingkongserver.top/Tangel%20OS/Alpha%201.1.0)
+
+> [Alpha 1.0.0](https://pan.xingkongserver.top/Tangel%20OS/Alpha%201.0.0)
 
 ## 老版
 
