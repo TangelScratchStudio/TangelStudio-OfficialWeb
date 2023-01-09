@@ -31,7 +31,7 @@ You turned on the translation function!
 
 [点击跳转](/tool_packs.html)
 
-## World War II:策略与征服(原 CCCP:涅槃重生).资源下载
+## [⚠️弃坑]World War II:策略与征服(原 CCCP:涅槃重生).资源下载
 
 [点击跳转](/ww2_sc.html)
 
