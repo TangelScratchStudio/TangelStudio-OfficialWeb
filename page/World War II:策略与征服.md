@@ -1,7 +1,7 @@
 ---
 permalink: /ww2_sc.html
 ---
-# World War II:策略与征服(原 CCCP:涅槃重生).资源下载
+# [⚠️弃坑]World War II:策略与征服(原 CCCP:涅槃重生).资源下载
 
 > [1.1.0](https://afdian.net/p/9a48c0144c5d11edbf4e52540025c377)
 
