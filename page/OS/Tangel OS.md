@@ -9,6 +9,8 @@ permalink: /os.html
 
 ## 重置版
 
+> [Alpha 1.2.0](https://pan.xingkongserver.top/Tangel%20OS/Alpha%201.2.0)
+
 > [Alpha 1.1.0](https://pan.xingkongserver.top/Tangel%20OS/Alpha%201.1.0)
 
 > [Alpha 1.0.0](https://pan.xingkongserver.top/Tangel%20OS/Alpha%201.0.0)
