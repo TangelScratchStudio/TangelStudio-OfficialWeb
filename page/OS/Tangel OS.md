@@ -9,6 +9,8 @@ permalink: /os.html
 
 ## 重置版
 
+> [Beta 1.0.0](https://pan.xingkongserver.top/Tangel%20OS/Beta%201.0.0) ([更新日志](https://afdian.net/p/1c334e3a902611edbfcc5254001e7c00))
+
 > [Alpha 1.2.0](https://pan.xingkongserver.top/Tangel%20OS/Alpha%201.2.0) ([更新日志](https://afdian.net/p/d06783008f1611edb78252540025c377))
 
 > [Alpha 1.1.0](https://pan.xingkongserver.top/Tangel%20OS/Alpha%201.1.0) ([更新日志](https://afdian.net/p/333641ca8efd11eda93052540025c377))
