@@ -25,10 +25,10 @@ You turned on the translation function!
 
 ## 加入我们的Discord服务器
 
-![discord-logo-blue](https://user-images.githubusercontent.com/91039316/211475899-fdf85e64-115b-4e3e-8b97-51b1b9251fc6.svg)
+[<img width="200" alt="discord-logo-blue" src="https://user-images.githubusercontent.com/91039316/211475899-fdf85e64-115b-4e3e-8b97-51b1b9251fc6.svg">
+](https://discord.gg/kS3jxtpKUm)
 
-
-[🌐邀请链接](https://discord.gg/kS3jxtpKUm)
+[🌐邀请链接(备用)](https://discord.gg/kS3jxtpKUm)
 
 ## Tangel OS(原WS DOS SYSTEM).资源下载
 
