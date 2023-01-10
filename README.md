@@ -23,6 +23,10 @@ You turned on the translation function!
 
 [Tangel Studio 宣传片](https://www.bilibili.com/video/BV1Me4y1R7Wb)
 
+## 加入我们的Discord服务器
+
+[🌐邀请链接](https://discord.gg/kS3jxtpKUm)
+
 ## Tangel OS(原WS DOS SYSTEM).资源下载
 
 [点击跳转](/os.html)
