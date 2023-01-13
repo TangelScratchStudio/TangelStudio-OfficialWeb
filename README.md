@@ -26,14 +26,10 @@ You turned on the translation function!
 ## 加入我们
 
 [<img width="200" alt="discord-logo-blue" src="https://user-images.githubusercontent.com/91039316/211475899-fdf85e64-115b-4e3e-8b97-51b1b9251fc6.svg">
-](https://discord.gg/kS3jxtpKUm)
-
-[🌐Discord服务器 邀请链接(备用)](https://discord.gg/kS3jxtpKUm)
-
-[<img width="50" alt="discord-logo-blue" src="https://avatars.githubusercontent.com/u/6113871?s=200&v=4">
+](https://discord.gg/kS3jxtpKUm) [<img width="50" alt="discord-logo-blue" src="https://avatars.githubusercontent.com/u/6113871?s=200&v=4">
 ](https://t.me/+GgZy38aOi7c2NWU1)
 
-[🌐Telegram群组 邀请链接(备用)](https://t.me/+GgZy38aOi7c2NWU1)
+[Discord服务器🌐链接(备用)](https://discord.gg/kS3jxtpKUm)  [Telegram群组🌐链接(备用)](https://t.me/+GgZy38aOi7c2NWU1)
 
 ## Tangel OS(原WS DOS SYSTEM).资源下载
 
