@@ -27,7 +27,8 @@ You turned on the translation function!
 
 [<img width="200" alt="discord-logo-blue" src="https://user-images.githubusercontent.com/91039316/211475899-fdf85e64-115b-4e3e-8b97-51b1b9251fc6.svg">
 ](https://discord.gg/kS3jxtpKUm) [<img width="50" alt="discord-logo-blue" src="https://avatars.githubusercontent.com/u/6113871?s=200&v=4">
-](https://t.me/+GgZy38aOi7c2NWU1)
+](https://t.me/+GgZy38aOi7c2NWU1) [<img width="50" alt="logo_blogger" src="https://user-images.githubusercontent.com/91039316/212287831-cb91d082-4e07-45c8-846b-140b8c99a615.png">
+](https://tangelstudio.blogspot.com/)
 
 [🌐Discord服务器 链接(备用)](https://discord.gg/kS3jxtpKUm)  [🌐Telegram群组 链接(备用)](https://t.me/+GgZy38aOi7c2NWU1)
 
