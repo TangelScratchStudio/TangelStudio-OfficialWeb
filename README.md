@@ -23,7 +23,7 @@ You turned on the translation function!
 
 [Tangel Studio 宣传片](https://www.bilibili.com/video/BV1Me4y1R7Wb)
 
-## 加入我们
+## 关注我们
 
 [<img width="200" alt="discord-logo-blue" src="https://user-images.githubusercontent.com/91039316/211475899-fdf85e64-115b-4e3e-8b97-51b1b9251fc6.svg">
 ](https://discord.gg/kS3jxtpKUm) [<img width="50" alt="discord-logo-blue" src="https://avatars.githubusercontent.com/u/6113871?s=200&v=4">
