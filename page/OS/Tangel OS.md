@@ -21,7 +21,7 @@ permalink: /os.html
 
 > [Alpha 1.0.0](https://pan.xingkongserver.top/Tangel%20OS/Alpha%201.0.0) ([更新日志](https://afdian.net/p/29b7f00c8dd211eda2a252540025c377))
 
-## 老版
+## 老版本
 
 ### Windows版本
 
