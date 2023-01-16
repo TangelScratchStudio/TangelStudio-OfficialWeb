@@ -1,3 +1,13 @@
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-YMNXNR98VZ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-YMNXNR98VZ');
+</script>
+
 # Tangel Studio官网
 
 <a href="https://time.is/Beijing" id="time_is_link" rel="nofollow" style="font-size:24px">北京时间:</a>
