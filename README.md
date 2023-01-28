@@ -1,5 +1,7 @@
+<!-- Google分析 HTML模块 -->
 <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-YMNXNR98VZ"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-YMNXNR98VZ">
+</script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -7,6 +9,9 @@
 
   gtag('config', 'G-YMNXNR98VZ');
 </script>
+
+<!-- Cirsp客服 HTML窗口化模块 --﹥
+<script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="f875046b-8947-4bea-87c5-21c086b6160d";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
 
 # Tangel Studio官网
 
