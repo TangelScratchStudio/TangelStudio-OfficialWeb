@@ -1,18 +1,16 @@
 # Tangel Studio官网
 
 **在本网站中，请不要打开翻译功能。**
-
 <!-- Google分析 HTML模块 -->
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-YMNXNR98VZ">
-</script>:
+</script>
 <script>
   window.dataLayer = window.dataLayer || []
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
   gtag('config', 'G-YMNXNR98VZ');
 </script>
-
 <!-- Cirsp客服 HTML窗口化模块 -->
 <script type="text/javascript">
   window.$crisp=[];
@@ -21,7 +19,6 @@
   s=d.createElement("script");
   s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();
 </script>
-
 <!-- Time.IS HTML时间显示模块 -->
 <a href="https://time.is/Beijing" id="time_is_link" rel="nofollow" style="font-size:24px">北京时间:</a>
 <span id="Beijing_z43d" style="font-size:24px"></span>
