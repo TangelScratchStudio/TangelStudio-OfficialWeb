@@ -1,5 +1,7 @@
 # Tangel Studio官网
 
+**在本网站中，请不要打开翻译功能。**
+
 <!-- Google分析 HTML模块 -->
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-YMNXNR98VZ">
@@ -30,13 +32,11 @@ time_is_widget.init({Beijing_z43d:{template:"TIME<br>DATE", time_format:"12hours
 
 
 ## 即将迁移
-Tangel Studio官网由原来的[tangelscratchstudio.online](tangelscratchstudio.online)网域(可能会)迁移到以下网域
+**Tangel Studio官网由原来的[tangelscratchstudio.online](tangelscratchstudio.online)网域(可能会)迁移到以下网域**
 
 > [tangelscratchstudio.eu.org](tangelscratchstudio.eu.org)
 
 > [tangelstudio.eu.org](tangelstudio.eu.org)
-
-**在本网站中，请不要打开翻译功能。**
 
 ***
 
