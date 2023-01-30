@@ -15,6 +15,8 @@
 
 # Tangel Studio官网
 
+## 即将迁移
+Tangel Studio官网由原来的[tangelscratchstudio.online](tangelscratchstudio.online)
 <a href="https://time.is/Beijing" id="time_is_link" rel="nofollow" style="font-size:24px">北京时间:</a>
 <span id="Beijing_z43d" style="font-size:24px"></span>
 <script src="//widget.time.is/zh.js"></script>
