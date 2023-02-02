@@ -19,8 +19,7 @@
   s=d.createElement("script");
   s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();
 <!-- Google AD -->
-</script>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9150057825890063"crossorigin="anonymous">
+</script><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9150057825890063"crossorigin="anonymous">
 </script>
 <!-- Time.IS HTML时间显示模块 -->
 <a href="https://time.is/Beijing" id="time_is_link" rel="nofollow" style="font-size:24px">北京时间:</a>
